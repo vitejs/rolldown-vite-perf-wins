@@ -42,3 +42,15 @@ Build time after (with native plugins): 6.36s
 Performance improvement (compared to Vite): ~9.7x faster
 Performance improvement (compared to Next.js & Webpack): ~28.8x faster
 ---
+name: Todor Andonov
+Source: https://x.com/andonov_t
+Build time before (Vite): 47s
+Build time after (with native plugins): 12s
+Performance improvement: ~4x faster
+---
+name: Payfit
+Source: https://x.com/youyuxi/status/1907327848052109500
+Build time before (Vite): 55s
+Build time after (with native plugins): 11.74s
+Performance improvement: ~4.7x faster
+
