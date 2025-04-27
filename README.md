@@ -24,3 +24,21 @@ Social: https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v
 ---
 Name: Saurabh
 Social: https://x.com/Saurabh_kakran/status/1914593323781603467
+---
+Name: Appwrite
+Source: https://github.com/appwrite/website/pull/1933
+Social: https://x.com/DittmannTorsten/status/1915763729586606125
+Build time before (Vite): 12m 27s
+Build time after (no native): 5m 38s
+Build time after (with native plugins): 3m 21s
+Performance improvement: ~3.7x faster
+---
+name: Particl
+Source: https://x.com/gill_kyle/status/1912336077152829745, https://x.com/gill_kyle/status/1915088866324967839
+Build time before (Next.js & Webpack): 3m
+Build time before (Vite): 1m 2s
+Build time after (no native plugins): 27.16s
+Build time after (with native plugins): 6.36s
+Performance improvement (compared to Vite): ~9.7x faster
+Performance improvement (compared to Next.js & Webpack): ~28.8x faster
+---
