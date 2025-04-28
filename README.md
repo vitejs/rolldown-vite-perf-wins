@@ -7,7 +7,7 @@ Social: https://x.com/youyuxi/status/1914481681203102021
 Build time before (Vite): ~2.5m
 Build time after (no native): ~1m (esbuild for minification)
 Build time after (only native resolver plugins): ~40s
-Performance improvement: ~2.6x faster but 100x less memory consumption
+Performance improvement: ~2.6x faster and 100x less memory consumption
 ---
 Name: Excalidraw
 Source: https://github.com/sapphi-red/excalidraw/tree/trim-down-build
@@ -31,7 +31,7 @@ Social: https://x.com/DittmannTorsten/status/1915763729586606125
 Build time before (Vite): 12m 27s
 Build time after (no native): 5m 38s
 Build time after (with native plugins): 3m 21s
-Performance improvement: ~3.7x faster
+Performance improvement: ~3.7x faster and 4x less memory consumption
 ---
 name: Particl
 Source: https://x.com/gill_kyle/status/1912336077152829745, https://x.com/gill_kyle/status/1915088866324967839
