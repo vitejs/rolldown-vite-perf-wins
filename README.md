@@ -19,3 +19,4 @@ Got cool results to share? **PR welcome!**
 | Particl | - | [Twitter 1](https://x.com/gill_kyle/status/1912336077152829745), [Twitter 2](https://x.com/gill_kyle/status/1915088866324967839) | 1m 2s (Vite), 3m (Next.js) | 27.16s | 6.36s | 9.7x (compared to Vite) <br> 28.8x (compared to Next.js) |
 | Todor Andonov | - | [Twitter](https://x.com/andonov_t) | 47s | - | 12s | 4x |
 | Payfit | - | [Twitter](https://x.com/youyuxi/status/1907327848052109500) | 55s | - | 11.74s | 4.7x |
+| Minimal Nuxt.js application | https://github.com/nuxt/nuxt/pull/31880 | - | 5.4s | 2.2s | - | 2.5x
