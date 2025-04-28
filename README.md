@@ -1,56 +1,17 @@
-# rolldown-vite-perf-wins
+# Rolldown-Vite Performance Wins
 
----
-Name: GitLab
-Source: https://gitlab.com/gitlab-org/gitlab/-/merge_requests/180509
-Social: https://x.com/youyuxi/status/1914481681203102021
-Build time before (Vite): ~2.5m
-Build time after (no native): ~1m (esbuild for minification)
-Build time after (only native resolver plugins): ~40s
-Performance improvement: ~2.6x faster and 100x less memory consumption
----
-Name: Excalidraw
-Source: https://github.com/sapphi-red/excalidraw/tree/trim-down-build
-Social: https://x.com/youyuxi/status/1914278629875540368
-Build time before (Vite): 22.9s
-Build time after (with native plugins): 1.4s
-Performance improvement: ~16x faster
----
-Name: Storybook
-Social: https://bsky.app/profile/shilman.net/post/3lnnmagmqtc2s
----
-Name: kazupon
-Social: https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v
----
-Name: Saurabh
-Social: https://x.com/Saurabh_kakran/status/1914593323781603467
----
-Name: Appwrite
-Source: https://github.com/appwrite/website/pull/1933
-Social: https://x.com/DittmannTorsten/status/1915763729586606125
-Build time before (Vite): 12m 27s
-Build time after (no native): 5m 38s
-Build time after (with native plugins): 3m 21s
-Performance improvement: ~3.7x faster and 4x less memory consumption
----
-name: Particl
-Source: https://x.com/gill_kyle/status/1912336077152829745, https://x.com/gill_kyle/status/1915088866324967839
-Build time before (Next.js & Webpack): 3m
-Build time before (Vite): 1m 2s
-Build time after (no native plugins): 27.16s
-Build time after (with native plugins): 6.36s
-Performance improvement (compared to Vite): ~9.7x faster
-Performance improvement (compared to Next.js & Webpack): ~28.8x faster
----
-name: Todor Andonov
-Source: https://x.com/andonov_t
-Build time before (Vite): 47s
-Build time after (with native plugins): 12s
-Performance improvement: ~4x faster
----
-name: Payfit
-Source: https://x.com/youyuxi/status/1907327848052109500
-Build time before (Vite): 55s
-Build time after (with native plugins): 11.74s
-Performance improvement: ~4.7x faster
+A collection of real-world performance improvements seen when migrating from Vite to Rolldown.
+
+| Project | Source | Social | Before (Vite) | After (No Native) | After (With Native) | Improvement |
+|---------|--------|--------|--------------|-------------------|---------------------|-------------|
+| GitLab | [MR 180509](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/180509) | [Twitter](https://x.com/youyuxi/status/1914481681203102021) | ~2.5m | ~1m (esbuild for minification) | ~40s (only native resolver plugins) | ~2.6x faster, 100x less memory |
+| Excalidraw | [GitHub](https://github.com/sapphi-red/excalidraw/tree/trim-down-build) | [Twitter](https://x.com/youyuxi/status/1914278629875540368) | 22.9s | - | 1.4s | ~16x faster |
+| Storybook | - | [Bluesky](https://bsky.app/profile/shilman.net/post/3lnnmagmqtc2s) | - | - | - | - |
+| kazupon (front end 1) | - | [Bluesky](https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v) | 1m 20s | 10s | 5s | 16x |
+| kazupon (front end 2) | - | [Bluesky](https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v) | 40s | 9s | 5s | 8x |
+| Saurabh | - | [Twitter](https://x.com/Saurabh_kakran/status/1914593323781603467) | - | - | - | - |
+| Appwrite | [PR 1933](https://github.com/appwrite/website/pull/1933) | [Twitter](https://x.com/DittmannTorsten/status/1915763729586606125) | 12m 27s | 5m 38s | 3m 21s | ~3.7x faster, 4x less memory |
+| Particl | [Twitter 1](https://x.com/gill_kyle/status/1912336077152829745), [Twitter 2](https://x.com/gill_kyle/status/1915088866324967839) | - | 1m 2s (Vite), 3m (Next.js) | 27.16s | 6.36s | ~9.7x faster vs Vite, ~28.8x vs Next.js |
+| Todor Andonov | [Twitter](https://x.com/andonov_t) | - | 47s | - | 12s | ~4x faster |
+| Payfit | - | [Twitter](https://x.com/youyuxi/status/1907327848052109500) | 55s | - | 11.74s | ~4.7x faster |
 
