@@ -17,6 +17,6 @@ Got cool results to share? **PR welcome!**
 | Saurabh | - | [Twitter](https://x.com/Saurabh_kakran/status/1914593323781603467) | 5m 10s | 1m 4s | 53s | 5.8x |
 | Appwrite | [PR 1933](https://github.com/appwrite/website/pull/1933) | [Twitter](https://x.com/DittmannTorsten/status/1915763729586606125) | 12m 27s | 5m 38s | 3m 21s | 3.7x <br> 4x less memory |
 | Particl | - | [Twitter 1](https://x.com/gill_kyle/status/1912336077152829745), [Twitter 2](https://x.com/gill_kyle/status/1915088866324967839) | 1m 2s (Vite), 3m (Next.js) | 27.16s | 6.36s | 9.7x (compared to Vite) <br> 28.8x (compared to Next.js) |
-| Todor Andonov | - | [Twitter](https://x.com/andonov_t) | 47s | - | 12s | 4x |
+| Todor Andonov | - | [Twitter](https://x.com/andonov_t/status/1915215035992821831) | 47s | - | 12s | 4x |
 | Payfit | - | [Twitter](https://x.com/youyuxi/status/1907327848052109500) | 55s | - | 11.74s | 4.7x |
 | Minimal Nuxt.js application | [CodSpeed](https://codspeed.io/nuxt/nuxt/runs/compare/6814a394bbf9f81c2138de7a..681733c762a7543f17762cb9) | - | 5.4s | 2.2s | - | 2.5x
