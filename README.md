@@ -21,3 +21,6 @@ Got cool results to share? **PR welcome!**
 | Payfit | - | [Twitter](https://x.com/youyuxi/status/1907327848052109500) | 55s | - | 11.74s | 4.7x |
 | Minimal Nuxt.js application | [CodSpeed](https://codspeed.io/nuxt/nuxt/runs/compare/6814a394bbf9f81c2138de7a..681733c762a7543f17762cb9) | - | 5.4s | 2.2s | - | 2.5x
 | Mercedes-Benz.io | - | [Blog Post](https://www.mercedes-benz.io/blog/2025-05-16-how-can-modern-tooling-save-mercedes-benz-io-engineering-time) | - | - | - | 3x
+| Ecksters | - | [Reddit Comment 1](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv3q5qc/), [Reddit Comment 2](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv5avxx/)| 48s | 25s | 5.5s | 5.45x
+| bzbub2 | - | [Reddit Comment 1](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv9z5or/), [Reddit Comment 2](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mvt30dp/) | 33.56s | 10.22s | 4.97s | 6.8x
+| hanford | - | [Discord Thread](https://discord.com/channels/1171783886200643635/1379507924610842664/1379517855619612783) | 5m | - | 1m 30s (only native resolver plugin) | 3.33x
