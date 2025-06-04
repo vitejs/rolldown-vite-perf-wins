@@ -27,3 +27,4 @@ Got cool results to share? **PR welcome!**
 ast-grep | [GitHub](https://github.com/ast-grep/ast-grep.github.io) | [Twitter](https://x.com/hd_nvim/status/1928482034055274917) | 23.9s | 8.71s | 6.86s | 3.5x
 Meess (Client build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 3.3s | 0.85s | 0.48s | 6.88x
 Meess (Server build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 2.9s | 0.82s | 0.35s | 8.29x
+Sanity | - | [Bluesky](https://bsky.app/profile/evanyou.me/post/3lqruv5a2ck2n) | 21.9 | 5.1s | - | 4x (no native plugins yet)
