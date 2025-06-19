@@ -29,3 +29,4 @@ Meess (Client build) | - | [Twitter](https://x.com/ThisIsGengar/status/192874194
 Meess (Server build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 2.9s | 0.82s | 0.35s | 8.29x
 Sanity | - | [Bluesky](https://bsky.app/profile/evanyou.me/post/3lqruv5a2ck2n) | 21.9 | 5.1s | - | 4x (no native plugins yet)
 | StructDB | (private repo) | [Website](https://structdb.net) | 20.98s | 4.53s | 1.19s  | 17x |
+| Halo (Client build) | [GitHub](https://github.com/halo-dev/halo) | [Twitter](https://x.com/ryanwang_ya/status/1928664440100237678) | 18.98s | 3.19s | 2.35s | 8x |
