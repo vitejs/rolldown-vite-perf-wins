@@ -24,10 +24,11 @@ Got cool results to share? **PR welcome!**
 | Ecksters | - | [Reddit Comment 1](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv3q5qc/), [Reddit Comment 2](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv5avxx/)| 48s | 25s | 5.5s | 5.45x
 | bzbub2 | - | [Reddit Comment 1](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv9z5or/), [Reddit Comment 2](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mvt30dp/) | 33.56s | 10.22s | 4.97s | 6.8x
 | hanford | - | [Discord Thread](https://discord.com/channels/1171783886200643635/1379507924610842664/1379517855619612783) | 5m | - | 1m 30s (only native resolver plugin) | 3.33x
-ast-grep | [GitHub](https://github.com/ast-grep/ast-grep.github.io) | [Twitter](https://x.com/hd_nvim/status/1928482034055274917) | 23.9s | 8.71s | 6.86s | 3.5x
-Meess (Client build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 3.3s | 0.85s | 0.48s | 6.88x
-Meess (Server build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 2.9s | 0.82s | 0.35s | 8.29x
-Sanity | - | [Bluesky](https://bsky.app/profile/evanyou.me/post/3lqruv5a2ck2n) | 21.9 | 5.1s | - | 4x (no native plugins yet)
+| ast-grep | [GitHub](https://github.com/ast-grep/ast-grep.github.io) | [Twitter](https://x.com/hd_nvim/status/1928482034055274917) | 23.9s | 8.71s | 6.86s | 3.5x
+| Meess (Client build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 3.3s | 0.85s | 0.48s | 6.88x
+| Meess (Server build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 2.9s | 0.82s | 0.35s | 8.29x
+| Sanity | - | [Bluesky](https://bsky.app/profile/evanyou.me/post/3lqruv5a2ck2n) | 21.9 | 5.1s | - | 4x (no native plugins yet)
 | StructDB | (private repo) | [Website](https://structdb.net) | 20.98s | 4.53s | 1.19s  | 17x |
 | Halo (Client build) | [GitHub](https://github.com/halo-dev/halo) | [Twitter](https://x.com/ryanwang_ya/status/1928664440100237678) | 18.98s | 3.19s | 2.35s | 8x |
 | Bright software | (private repo) | [website](https://brightit.com.np/) | 4m34s | 1m20s | 18s  | 15.22x |
+| Outline | [PR](https://github.com/outline/outline/pull/9523) | [Twitter](https://x.com/youyuxi/status/1944604243786428448) | 47.27s | 5.40s | - | 8.8x (no native plugins yet)
