@@ -31,4 +31,4 @@ Got cool results to share? **PR welcome!**
 | StructDB | (private repo) | [Website](https://structdb.net) | 20.98s | 4.53s | 1.19s  | 17x |
 | Halo (Client build) | [GitHub](https://github.com/halo-dev/halo) | [Twitter](https://x.com/ryanwang_ya/status/1928664440100237678) | 18.98s | 3.19s | 2.35s | 8x |
 | Bright software | (private repo) | [website](https://brightit.com.np/) | 4m34s | 1m20s | 18s  | 15.22x |
-| Outline | [PR](https://github.com/outline/outline/pull/9523) | [Twitter](https://x.com/youyuxi/status/1944604243786428448) | 47.27s | 5.40s | - | 8.8x (no native plugins yet)
+| Outline | [PR](https://github.com/outline/outline/pull/9523) | [Twitter](https://x.com/youyuxi/status/1944604243786428448) | 47.27s | 5.40s | 2.12s | 22.3x
