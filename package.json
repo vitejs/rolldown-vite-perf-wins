@@ -1,0 +1,24 @@
+{
+  "name": "rolldown-vite-perf-wins",
+  "version": "1.0.0",
+  "description": "> A collection of perf improvement stats when users switch from current Vite (powered by Rollup) to Rolldown-powered-Vite.",
+  "main": "sorter.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitejs/rolldown-vite-perf-wins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitejs/rolldown-vite-perf-wins/issues"
+  },
+  "homepage": "https://github.com/vitejs/rolldown-vite-perf-wins#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.13"
+  }
+}
