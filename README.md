@@ -32,3 +32,4 @@ Got cool results to share? **PR welcome!**
 | GitLab | [MR 180509](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/180509) | [Twitter](https://x.com/youyuxi/status/1914481681203102021) | 2.5m | 1m (esbuild for minification) | ~40s (only native resolver plugins) | 2.6x <br> 100x less memory |
 | Minimal Nuxt.js application | [CodSpeed](https://codspeed.io/nuxt/nuxt/runs/compare/6814a394bbf9f81c2138de7a..681733c762a7543f17762cb9) | - | 5.4s | 2.2s | - | 2.5x |
 | Storybook | - | [Bluesky](https://bsky.app/profile/shilman.net/post/3lnnmagmqtc2s) | 80s | 56s | 51s | 1.56x |
+| Acre Software | (private repo) | [website](https://www.acresoftware.com/) | 1m54s | 38.96s | - | 2.93x |
