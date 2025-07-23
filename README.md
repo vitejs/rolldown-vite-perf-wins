@@ -23,6 +23,7 @@ Got cool results to share? **PR welcome!**
 | Saurabh | - | [Twitter](https://x.com/Saurabh_kakran/status/1914593323781603467) | 5m 10s | 1m 4s | 53s | 5.8x |
 | Ecksters | - | [Reddit Comment 1](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv3q5qc/), [Reddit Comment 2](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv5avxx/)| 48s | 25s | 5.5s | 5.45x |
 | Payfit | - | [Twitter](https://x.com/youyuxi/status/1907327848052109500) | 55s | - | 11.74s | 4.7x |
+| Acre Software | (private repo) | [website](https://www.acresoftware.com/) | 1m54s | 38.96s | 25.41s | 4.49x |
 | Todor Andonov | - | [Twitter](https://x.com/andonov_t/status/1915215035992821831) | 47s | - | 12s | 4x |
 | Sanity | - | [Bluesky](https://bsky.app/profile/evanyou.me/post/3lqruv5a2ck2n) | 21.9 | 5.1s | - | 4x (no native plugins yet) |
 | Appwrite | [PR 1933](https://github.com/appwrite/website/pull/1933) | [Twitter](https://x.com/DittmannTorsten/status/1915763729586606125) | 12m 27s | 5m 38s | 3m 21s | 3.7x <br> 4x less memory |
@@ -32,4 +33,3 @@ Got cool results to share? **PR welcome!**
 | GitLab | [MR 180509](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/180509) | [Twitter](https://x.com/youyuxi/status/1914481681203102021) | 2.5m | 1m (esbuild for minification) | ~40s (only native resolver plugins) | 2.6x <br> 100x less memory |
 | Minimal Nuxt.js application | [CodSpeed](https://codspeed.io/nuxt/nuxt/runs/compare/6814a394bbf9f81c2138de7a..681733c762a7543f17762cb9) | - | 5.4s | 2.2s | - | 2.5x |
 | Storybook | - | [Bluesky](https://bsky.app/profile/shilman.net/post/3lnnmagmqtc2s) | 80s | 56s | 51s | 1.56x |
-| Acre Software | (private repo) | [website](https://www.acresoftware.com/) | 1m54s | 38.96s | 25.41s | 2.93x |
