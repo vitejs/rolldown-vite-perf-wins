@@ -7,6 +7,9 @@ Got cool results to share? **PR welcome!**
 
 ## Results
 
+The resource table below summarizes results of individual applications, comparing build performance across various JavaScript projects using different build tools and configurations, both closed and open source. The *Build Speed Change* column* indicates how many times faster the build process is with `rolldown-vite` compared to plain Vite, always measured with all available native plugins enabled unless noted otherwise (see notes [^1] and [^2] below).
+
+
 | Project | Source | Social | Plain Vite | Rolldown-Vite (no native [^1]) | Rolldown-Vite (native v1 [^2]) | Build Speed Change | Build Memory Usage Change |
 |---------|--------|--------|--------------|-------------------|---------------------|-------------|----|
 | Outline | [PR](https://github.com/outline/outline/pull/9523) | [Twitter](https://x.com/youyuxi/status/1944604243786428448) | 47.27s | 5.40s | 2.12s | 22.3x | - |
