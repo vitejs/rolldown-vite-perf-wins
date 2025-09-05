@@ -25,7 +25,7 @@ const rows = lines.slice(2);
 
 // Find the "Improvement" column index
 const headers = header.split('|').map(h => h.trim());
-const improvementIdx = headers.findIndex(h => h.toLowerCase().startsWith('improvement'));
+const improvementIdx = headers.findIndex(h => h.toLowerCase().startsWith('build speed change'));
 
 function extractFirstXValue(cell: string): number {
   // Find the first value like 3.5x or 2.6x in the cell
@@ -33,7 +33,7 @@ function extractFirstXValue(cell: string): number {
   return match ? parseFloat(match[1]) : -Infinity;
 }
 
-// Sort rows by the Improvement column (descending, by first x value)
+// Sort rows by the Build Speed Change column (descending, by first x value)
 const sortedRows = rows
   .map(row => row.trim())
   .filter(row => row.length > 0)
@@ -53,4 +53,4 @@ const sortedTable = [header, separator, ...sortedRows].join('\n');
 const newReadme = readme.replace(table, sortedTable);
 
 fs.writeFileSync(readmePath, newReadme, 'utf-8');
-console.log('Table sorted by Improvement column (x value).');
+console.log('Table sorted by Build Speed Change column (x value).');
