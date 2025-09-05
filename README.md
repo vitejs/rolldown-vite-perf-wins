@@ -14,6 +14,7 @@ Got cool results to share? **PR welcome!**
 | Excalidraw | [GitHub](https://github.com/sapphi-red/excalidraw/tree/trim-down-build) | [Twitter](https://x.com/youyuxi/status/1914278629875540368) | 22.9s | - | 1.4s | 16x |
 | PLAID, inc. (front end 1) | - | [Bluesky](https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v) | 1m 20s | 10s | 5s | 16x |
 | Bright software | (private repo) | [website](https://brightit.com.np/) | 4m34s | 1m20s | 18s  | 15.22x |
+| Vibe Dashboard | [GitHub] (https://github.com/voidzero-dev/vibe-dashboard) | [PR](https://github.com/voidzero-dev/vibe-dashboard/pull/12) | 4.3s | - | 315ms | 13.6x |
 | Particl | - | [Twitter 1](https://x.com/gill_kyle/status/1912336077152829745), [Twitter 2](https://x.com/gill_kyle/status/1915088866324967839) | 1m 2s (Vite), 3m (Next.js) | 27.16s | 6.36s | 9.7x (compared to Vite) <br> 28.8x (compared to Next.js) |
 | Meess (Server build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 2.9s | 0.82s | 0.35s | 8.29x |
 | PLAID, inc. (front end 2) | - | [Bluesky](https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v) | 40s | 9s | 5s | 8x |
