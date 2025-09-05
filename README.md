@@ -14,7 +14,7 @@ Got cool results to share? **PR welcome!**
 | Excalidraw | [GitHub](https://github.com/sapphi-red/excalidraw/tree/trim-down-build) | [Twitter](https://x.com/youyuxi/status/1914278629875540368) | 22.9s | - | 1.4s | 16x | - |
 | PLAID, inc. (front end 1) | - | [Bluesky](https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v) | 1m 20s | 10s | 5s | 16x | - |
 | Bright software | (private repo) | [website](https://brightit.com.np/) | 4m34s | 1m20s | 18s  | 15.22x | - |
-| Vibe Dashboard | [GitHub] (https://github.com/voidzero-dev/vibe-dashboard) | [PR](https://github.com/voidzero-dev/vibe-dashboard/pull/12) | 4.3s | - | 315ms | 13.6x | - |
+| Vibe Dashboard | [GitHub](https://github.com/voidzero-dev/vibe-dashboard) | [PR](https://github.com/voidzero-dev/vibe-dashboard/pull/12) | 4.3s | - | 315ms | 13.6x | - |
 | Particl | - | [Twitter 1](https://x.com/gill_kyle/status/1912336077152829745), [Twitter 2](https://x.com/gill_kyle/status/1915088866324967839) | 1m 2s (Vite), 3m (Next.js) | 27.16s | 6.36s | 9.7x <br> (28.8x compared to Next.js) | - |
 | Meess (Server build) | - | [Twitter](https://x.com/ThisIsGengar/status/1928741941916618956) | 2.9s | 0.82s | 0.35s | 8.29x | - |
 | PLAID, inc. (front end 2) | - | [Bluesky](https://bsky.app/profile/kazupon.dev/post/3lnk7bieifs2v) | 40s | 9s | 5s | 8x |  - |
@@ -27,7 +27,7 @@ Got cool results to share? **PR welcome!**
 | Payfit | - | [Twitter](https://x.com/youyuxi/status/1907327848052109500) | 55s | - | 11.74s | 4.7x | - |
 | Acre Software | (private repo) | [website](https://www.acresoftware.com/) | 1m54s | 38.96s | 25.41s | 4.49x | - |
 | Todor Andonov | - | [Twitter](https://x.com/andonov_t/status/1915215035992821831) | 47s | - | 12s | 4x | - |
-| Sanity | - | [Bluesky](https://bsky.app/profile/evanyou.me/post/3lqruv5a2ck2n) | 21.9 | 5.1s | - | 4x (no native plugins enabled) | - |
+| Sanity | - | [Bluesky](https://bsky.app/profile/evanyou.me/post/3lqruv5a2ck2n) | 21.9 | 5.1s | - | 4x (no native plugins) | - |
 | Appwrite | [PR 1933](https://github.com/appwrite/website/pull/1933) | [Twitter](https://x.com/DittmannTorsten/status/1915763729586606125) | 12m 27s | 5m 38s | 3m 21s | 3.7x | 4x |
 | ast-grep | [GitHub](https://github.com/ast-grep/ast-grep.github.io) | [Twitter](https://x.com/hd_nvim/status/1928482034055274917) | 23.9s | 8.71s | 6.86s | 3.5x | - |
 | hanford | - | [Discord Thread](https://discord.com/channels/1171783886200643635/1379507924610842664/1379517855619612783) | 5m | - | 1m 30s (only native resolver) | 3.33x (only native resolver) | - |
